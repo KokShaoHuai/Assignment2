@@ -28,7 +28,7 @@ services:
       DB_HOST: postgres:5432
       DB_NAME: ticketing_system_db
       DB_USER: postgres
-      DB_PASS: SWORDFISH
+      DB_PASS: 123456
       LOG_LEVEL_ROOT: INFO
       LOG_LEVEL_APP: TRACE
     ports:
